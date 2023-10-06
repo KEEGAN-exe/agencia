@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "lastname": "Doe",
+    "email": "Jhondoe@example.com",
+    "level" : "editor",
+    "image": "person1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, quis aliquam nisl nunc sit amet nisl."
+  },
+  {
+    "id": 2,
+    "name": "Jane",
+    "lastname": "Doe",
+    "email": "janedoe@exmaple.com",
+    "level": "editor",
+    "image": "person3.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, quis aliquam nisl nunc sit amet nisl."
+  },
+  {
+    "id": 3,
+    "name": "John",
+    "lastname": "Smith",
+    "email": "jhonsmith@example.com",
+    "level": "diseñador",
+    "image": "person2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, quis aliquam nisl nunc sit amet nisl."
+  },
+  {
+    "id": 4,
+    "name": "Jane",
+    "lastname": "Smith",
+    "email": "janesmith@gmail.com",
+    "level": "fotografo",
+    "image": "person4.jpeg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl eget ultricies aliquam, nunc nisl aliquet nunc, quis aliquam nisl nunc sit amet nisl."
+  }
+]
