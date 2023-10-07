@@ -27,7 +27,7 @@ function App() {
         </div>
         <div className="text-stone-200 p-4">
           <h1 className="text-stone-200 xl:text-5xl text-4xl font-bold text-center">
-            Nuestros Planes
+            Nuestros Planes.
           </h1>
           <Pircing />
         </div>
