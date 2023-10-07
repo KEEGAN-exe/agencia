@@ -37,7 +37,7 @@ export const Nosotros = () => {
             <div className="flex justify-center items-center flex-col text-stone-200 h-full px-10">
               <div className="justify-between items-center flex w-full my-8">
                 <h1>Nombre: {item.name}</h1>
-                <p>{item.level}</p>
+                <p>Ocupacion: {item.level}</p>
               </div>
               <p>{item.description}</p>
             </div>
